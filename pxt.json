@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "sandbox.cpp",
-        "sandbox.ts"
+        "sandbox.ts",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
