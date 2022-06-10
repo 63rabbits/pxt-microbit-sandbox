@@ -11,7 +11,9 @@
         "sandbox.cpp",
         "sandbox.ts",
         "README.md",
-        "_locales/ja/README.md"
+        "_locales/ja/README.md",
+        "_locales/ja/pxt-microbit-sandbox-jsdoc-strings.json",
+        "_locales/ja/pxt-microbit-sandbox-strings.json"
     ],
     "testFiles": [
         "test.ts"
