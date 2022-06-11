@@ -1,3 +1,3 @@
 basic.forever(function () {
-    sandbox.sample(0, 0)
+    sandbox.sample(1, 0)
 })
