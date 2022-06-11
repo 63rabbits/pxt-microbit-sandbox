@@ -1,5 +1,4 @@
 {
     "sandbox.sample|block": "サンプル関数 $arg1 $arg2",
-    "sandbox|block": "Sandboxx",
     "{id:category}Sandboxx": "サンドボックス"
 }
