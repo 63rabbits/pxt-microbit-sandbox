@@ -1,0 +1,4 @@
+{
+    "sandbox.sample|block": "sample function $arg1 $arg2",
+    "{id:category}Sandbox": "SandBox"
+}
