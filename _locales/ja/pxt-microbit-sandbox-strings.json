@@ -1,4 +1,6 @@
 {
+    "{id:category}Sandbox": "サンドボックス",
+    "{id:subcategory}subcat": "サブ・カテゴリ",
     "sandbox.sample|block": "サンプル関数 $arg1 $arg2",
-    "{id:category}Sandbox": "サンドボックス"
+    "sandbox.sample2|block": "サンプル関数2 $arg1 $arg2"
 }

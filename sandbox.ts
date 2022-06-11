@@ -6,8 +6,14 @@ namespace sandbox {
     /**
      * sample function
      */
-    //% block="sample $arg1 $arg2"
+    //% block="s %arg1 %arg2"
     export function sample(arg1: number, arg2: number) {
+        basic.showNumber(arg1)
+    }
+
+    //% block="s2 $arg1 $arg2"
+    //% subcategory="subcat"
+    export function sample2(arg1: number, arg2: number) {
         basic.showNumber(arg1)
     }
 
