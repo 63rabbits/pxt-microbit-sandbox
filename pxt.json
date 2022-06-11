@@ -16,7 +16,7 @@
         "_locales/ja/pxt-microbit-sandbox-strings.json",
         "_locales/en/pxt-microbit-sandbox-jsdoc-strings.json",
         "_locales/en/pxt-microbit-sandbox-strings.json",
-        "help/sample.txt"
+        "help/sample.md"
     ],
     "testFiles": [
         "test.ts"
