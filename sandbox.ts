@@ -7,7 +7,6 @@ namespace sandbox {
      * sample function
      */
     //% block="s %arg1 %arg2"
-    //% help=help/sample.txt
     export function sample(arg1: number, arg2: number) {
         basic.showNumber(arg1)
     }
